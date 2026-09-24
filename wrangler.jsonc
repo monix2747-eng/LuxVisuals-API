@@ -1,0 +1,11 @@
+{
+  "name": "luxvisuals",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-24",
+  "kv_namespaces": [
+    {
+      "binding": "LUX_USERS",
+      "id": "6f50879eae1d424eac2b774919208bdb"
+    }
+  ]
+}
