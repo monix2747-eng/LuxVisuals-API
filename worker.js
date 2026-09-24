@@ -3,7 +3,7 @@ export default {
     const url = new URL(request.url);
 
     if (url.pathname === "/") {
-      return new Response("LuxVisuals API is online");
+      return new Response("LuxVisuals API is online v2");
     }
 
     if (url.pathname === "/register" && request.method === "POST") {
